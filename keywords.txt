@@ -1,0 +1,6 @@
+MatrixDispChar	KEYWORD1
+drawChar	KEYWORD2
+scrollChar	KEYWORD2
+twoDigits	KEYWORD2
+twoHex	KEYWORD2
+fill	KEYWORD2
